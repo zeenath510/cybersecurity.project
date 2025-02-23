@@ -1,6 +1,7 @@
 # cybersecurity.project
-   SECURE DATA HIDING IN IMAGES USING STEGANOGRAPHY{SECURE THE DATA TO PREVENT HACKERS.]
-import cv2# download pip install opencv-python using cmd
+
+#import libary
+import cv2 #download pip install opencv-python using cmd
 import os
 import string
 
@@ -44,5 +45,3 @@ if password == pas:
     print("Decryption message:", message)
 else:
     print("YOU ARE NOT auth")
-![encryptedImage](https://github.com/user-attachments/assets/f5ee5c2c-ac39-417b-b7ae-0d8be0c3045d)
-![mypic jpg](https://github.com/user-attachments/assets/7b6e76d4-8132-43ce-a5a5-5f2de03f4285)
